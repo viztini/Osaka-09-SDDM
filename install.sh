@@ -2,9 +2,9 @@
 
 echo ""
 
-echo " (1) - Install Windows 7 SDDM Theme"
+echo " (1) - Install Osaka '09 SDDM Theme"
 echo " (2) - Install Required Segoe UI fonts"
-echo " (3) - Install Windows Cursor Icons"
+echo " (3) - Install Osaka '09 Cursor Icons"
 
 echo ""
 
