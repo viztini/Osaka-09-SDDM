@@ -7,7 +7,7 @@ This theme transforms your Linux login screen with a vintage city aesthetic remi
 
 ## Preview
 
-![Osaka ’09 Preview](./osaka09-preview.png)  
+![preview](./osaka09-preview.png)  
 
 ---
 
