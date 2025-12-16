@@ -85,6 +85,7 @@ sddm-greeter-qt6 --test-mode --theme /usr/share/sddm/themes/osaka09-sddm-theme
 
 * Change background image: edit `background.png` in the theme folder
 * Adjust colors and fonts in `theme.conf` if desired
+* Edit user profile picture by swapping out the image
 
 ---
 
