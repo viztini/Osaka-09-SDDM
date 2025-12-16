@@ -1,6 +1,6 @@
 # Osaka ’09 SDDM Theme
 
-**A retro‑nostalgic SDDM theme inspired by Osaka circa 2009, heavily based on the Windows 7 SDDM theme by [birbkeks](https://github.com/birbkeks/win7-sddm-theme).**  
+**A retro‑nostalgic SDDM theme for Osaka '09, A retro Gentoo Linux Distro heavily based on the Windows 7 SDDM theme by [birbkeks](https://github.com/birbkeks/win7-sddm-theme).**  
 This theme transforms your Linux login screen with a vintage city aesthetic reminiscent of early 2000s Osaka, while retaining the smooth animations and layout from the original Win7 theme.
 
 ---
